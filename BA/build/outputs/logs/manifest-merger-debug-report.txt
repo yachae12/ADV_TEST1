@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:17:1-48:12
+INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:17:1-48:12
+INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:17:1-48:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\821af2e4af4eaefae3b6bdd6f6a236dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\9cf0d6a3074ddbefb0a2b8afd9df79cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\36cbc93c0ad419b89891f416722baddd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\411e079d554928c6fc11c07cfc2ecbc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\659c7db5e22b202bba42fae94f5ec3d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\9fb32fc402471c301ccc16468fa01507\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\23b87d169885d2b97247b8d52b0e0afc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4f9a623843799d0fb04be26bb2d1c3ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d02e4e7f08fa298af71226f354bf5bfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a549e0cf52fcc617284ced0204aacfc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\932150a05e571dcaae514cf998dba51d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b212f9bd0280fd4060bc742702657358\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:17:1-48:12
+INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:17:1-48:12
+	package
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:18:5-58
+	android:versionName
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:23:22-65
+application
+ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:25:5-46:19
+	android:label
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:29:9-40
+activity#com.example.android.bluetoothadvertisements.MainActivity
+ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:31:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:35:27-74
+service#com.example.android.bluetoothadvertisements.AdvertiserService
+ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:41:9-45:19
+	android:enabled
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml:42:13-46
+uses-sdk
+INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\821af2e4af4eaefae3b6bdd6f6a236dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\821af2e4af4eaefae3b6bdd6f6a236dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\9cf0d6a3074ddbefb0a2b8afd9df79cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\9cf0d6a3074ddbefb0a2b8afd9df79cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\36cbc93c0ad419b89891f416722baddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\36cbc93c0ad419b89891f416722baddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\411e079d554928c6fc11c07cfc2ecbc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\411e079d554928c6fc11c07cfc2ecbc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\659c7db5e22b202bba42fae94f5ec3d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\659c7db5e22b202bba42fae94f5ec3d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\9fb32fc402471c301ccc16468fa01507\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\9fb32fc402471c301ccc16468fa01507\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\23b87d169885d2b97247b8d52b0e0afc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\23b87d169885d2b97247b8d52b0e0afc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4f9a623843799d0fb04be26bb2d1c3ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4f9a623843799d0fb04be26bb2d1c3ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d02e4e7f08fa298af71226f354bf5bfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d02e4e7f08fa298af71226f354bf5bfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a549e0cf52fcc617284ced0204aacfc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a549e0cf52fcc617284ced0204aacfc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\932150a05e571dcaae514cf998dba51d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\932150a05e571dcaae514cf998dba51d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b212f9bd0280fd4060bc742702657358\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b212f9bd0280fd4060bc742702657358\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\ADV_TEST1\BA\src\main\AndroidManifest.xml

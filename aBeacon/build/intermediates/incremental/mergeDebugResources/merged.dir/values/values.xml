@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navigation_bar_color" type="color">#8E24AA</item>
+    <item name="primary" type="color">#E1BEE7</item>
+    <item name="primary_dark" type="color">#BA68C8</item>
+    <item name="window_background" type="color">#F3E5F5</item>
+    <string name="app_name">aBeacon</string>
+    <string name="ble_not_supported">BLE not supported on this device</string>
+    <string name="bt_unavailable">Bluetooth unavailable</string>
+    <string name="label_ias_button">Adv. as Immediate Alert Service</string>
+    <string name="label_ibeacon_button">Advertise as iBeacon</string>
+    <string name="label_stop_button">Stop Advertising</string>
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="android:colorPrimary">@color/navigation_bar_color</item>
+        <item name="android:colorPrimaryDark">@color/navigation_bar_color</item>
+        <item name="android:colorAccent">@color/primary_dark</item>
+        <item name="android:colorButtonNormal">@color/primary</item>
+        <item name="android:colorControlHighlight">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:navigationBarColor">@color/navigation_bar_color</item>
+    </style>
+</resources>

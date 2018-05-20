@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\USER\\AndroidStudioProjects\\ADV_TEST1\\aBeacon\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\USER\\AndroidStudioProjects\\ADV_TEST1\\aBeacon\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "8,4,6,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "285,126,203,39",
+                        "endColumns": "65,52,57,62",
+                        "endOffsets": "346,174,256,97"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,174,232",
+                        "endColumns": "65,52,57,62",
+                        "endOffsets": "116,169,227,290"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\USER\\AndroidStudioProjects\\ADV_TEST1\\aBeacon\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,6,5,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,100,179,314,244,391",
+                        "endColumns": "44,78,64,76,69,62",
+                        "endOffsets": "95,174,239,386,309,449"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "295,340,419,484,561,631",
+                        "endColumns": "44,78,64,76,69,62",
+                        "endOffsets": "335,414,479,556,626,689"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\USER\\AndroidStudioProjects\\ADV_TEST1\\aBeacon\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "681"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "694",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1359"
+                    }
+                }
+            ]
+        }
+    ]
+}

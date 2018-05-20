@@ -1,0 +1,1 @@
+include ':app', 'aBeacon', 'BA', 'abeacon_test'
